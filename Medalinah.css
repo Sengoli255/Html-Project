@@ -1,0 +1,124 @@
+div.content{
+			height: 200px;
+			width:100%;
+			background: black;
+			font-family: sans-serif;
+			font-size: 30px;
+			text-align: center;
+			color: white;
+			align-items: baseline;
+			float: left;
+		}
+		.sideeffect{
+			width: 300px;
+			height: 1500px;
+			background: snow;
+			align-items: right;
+			margin-left: 20px;
+			border-radius: 10px;
+			margin-top: 30px;
+			box-shadow: 4px 2px 3px;
+		    box-sizing: border-box;
+		}
+		.inline{
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+			background: orange;
+			float: left;
+			border-radius: 5px;
+			border-bottom-right-radius: 10px;
+			border-top-right-radius: 10px;
+			font-size: 15px;
+			width: 100px;
+			margin-left: 5px;
+			margin-right: 5px;
+			
+			
+		}
+		.savage{
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+			background: black;
+			border-radius: 10px;
+		    margin-left: 20px;
+		    margin-right: 20px;
+		    font-size: 2rem;
+		    height: 50px;	    
+		}
+		.enemy{
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+			background: orange;
+			float: right;
+			border-radius: 5px;
+			border-bottom-right-radius: 10px;
+			border-top-right-radius: 10px;
+			font-size: 15px;
+			width: 100px;
+			margin-top: 50px;
+			margin-right: 5px;
+ 		}
+
+ 		.hacker{
+ 			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+ 			margin-right: 5px;
+ 			font-size: 1rem;
+ 		   margin-left: 5px;
+ 			float: center;
+ 			color: blue;
+ 			
+ 		}
+		.spoongebob{
+			float: right;
+			margin-left: 10;
+			margin-top: 0;
+			border-radius: 70%;
+
+		}
+		.ryan{
+			font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+			font-size: 2rem;
+			color: black;
+			float: left;
+            margin-left: 0;
+            text-align: left;
+		}
+table{
+	float: left;
+	margin-left: 322px;
+	border:groove;
+
+
+
+}
+tr{
+	height: 200px;
+	border-radius: 10px;
+	background: black;
+
+}
+td{
+	width: 520px;
+	border-radius:10px;
+	background:snow;
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+.order{
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+	float: right;
+	background:green;
+	border-radius: 5px;
+	color: white;
+	font-size: 1.5rem;
+	margin-top: 30px;
+	width: 80PX;
+	text-align: center;
+}
+.foodname{
+	font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+	color: black;
+	font-size: 1.5rem;
+
+
+
+}
